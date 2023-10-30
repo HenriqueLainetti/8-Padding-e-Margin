@@ -1,0 +1,30 @@
+.box {
+    width: 50px;
+    height: 50px;
+    background: #ff1493;
+
+    margin-top: 20px;
+    margin-right: 10px;
+    margin-bottom: 30px;
+    margin-left: 5px;
+
+    margin: 20px 10px 30px 5px;
+    /*      12h  15h  18h 21h    */
+
+    /* margin: 20px 10px 30px; */
+    /*     Cima/ Dois lados/ Baixo*/
+
+    padding-top: 20px;
+    padding-left: 5px;
+
+    padding: 20px 5px; 
+/*    Cima/Baixo e Esquerda/Direita    */
+}
+
+/* .box-2 {
+    width: 50px;
+    height: 50px;
+    background: #9932cc;
+    margin: 50px;
+    padding: 30px;
+} */
